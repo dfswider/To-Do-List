@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    margin: 0 auto;
+    color: red;
+}
+body {
+    margin: 0 auto;
+    align-items: center;
+}
+
+li {
+    display: flex;
+    flex-direction: row;
+}
